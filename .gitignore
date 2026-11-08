@@ -1,0 +1,4 @@
+venv/
+__pycache__/
+.env
+candidates_history.csv
